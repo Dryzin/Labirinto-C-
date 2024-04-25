@@ -1,0 +1,6 @@
+C:\Users\Usuário\Documents\Faculdade\Estrutura_Dados\CSharp_Labirinto\Labirinto\obj\Debug\net2.0\Labirinto.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\Faculdade\Estrutura_Dados\CSharp_Labirinto\Labirinto\obj\Debug\net2.0\Labirinto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\Faculdade\Estrutura_Dados\CSharp_Labirinto\Labirinto\obj\Debug\net2.0\Labirinto.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\Faculdade\Estrutura_Dados\CSharp_Labirinto\Labirinto\obj\Debug\net2.0\Labirinto.AssemblyInfo.cs
+C:\Users\Usuário\Documents\Faculdade\Estrutura_Dados\CSharp_Labirinto\Labirinto\obj\Debug\net2.0\Labirinto.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\Faculdade\Estrutura_Dados\CSharp_Labirinto\Labirinto\obj\Debug\net2.0\Labirinto.sourcelink.json
