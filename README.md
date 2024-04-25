@@ -1,5 +1,3 @@
-Claro, aqui está o README em formato Markdown:
-
 ---
 
 # Labirinto em C#
