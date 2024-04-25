@@ -1,5 +1,3 @@
----
-
 # Labirinto em C#
 
 Este projeto em C# cria um labirinto representado por uma matriz bidimensional de caracteres. O objetivo é guiar um "rato" representado por 'R' para encontrar o "queijo" representado por 'Q' dentro do labirinto.
